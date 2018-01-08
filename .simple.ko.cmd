@@ -1,0 +1,1 @@
+cmd_/home/student/mgautam/cs450/simple.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/mgautam/cs450/simple.ko /home/student/mgautam/cs450/simple.o /home/student/mgautam/cs450/simple.mod.o

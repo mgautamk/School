@@ -1,0 +1,1 @@
+cmd_/home/student/mgautam/cs450/proj2.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/mgautam/cs450/proj2.ko /home/student/mgautam/cs450/proj2.o /home/student/mgautam/cs450/proj2.mod.o
